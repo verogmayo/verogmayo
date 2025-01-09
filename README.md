@@ -1,3 +1,5 @@
 <h1>Hola Soy Véro</h1>
 <h3>Soy estudiante de primer año de DAW</h3>
 <h5>Aquí están los proyectos que estamos trabajando en clase</h5>
+<img src="https://media.istockphoto.com/id/508408464/vector/work-in-progress-loading-bar.jpg?s=612x612&w=0&k=20&c=NyDSPinMdT1wuEODQQPk2YS2Tt-qf3K-w620zK3F9ls="
+  alt="Work in Progress">
